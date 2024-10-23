@@ -1,5 +1,7 @@
 # WTS '24 Theme
 
+![wts-theme](https://github.com/user-attachments/assets/a15e22f7-15f0-4672-8702-259aabf1cb83)
+
 ## Background
 
 Back in September 2024, we had our first What The Stack conference. It was a pretty good overall, and we got some really positive feedback for the website. So we decided to make it a theme, and publish it as open source.
